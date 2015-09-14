@@ -1,4 +1,0 @@
-function rankConferences
-
-end
-
