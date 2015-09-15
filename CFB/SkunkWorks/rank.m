@@ -1,4 +1,6 @@
 function rank
 
+	pwd()
+
 end
 

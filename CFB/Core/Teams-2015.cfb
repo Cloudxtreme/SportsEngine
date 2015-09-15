@@ -1,1 +1,164 @@
-
+MaxConference=11
+MaxSubConference=20
+MaxTeam=129
+Conferece=AAC,ID=1
+	SubConference=East,ID=1
+		Team=Cincinnati,ID=1
+		Team=Connecticut,ID=2
+		Team=East Carolina,ID=3
+		Team=South Florida,ID=4
+		Team=Temple,ID=5
+		Team=UCF,ID=6
+	SubConference=West,ID=2
+		Team=Houston,ID=7
+		Team=Memphis,ID=8
+		Team=Navy,ID=9
+		Team=Southern Methodist,ID=10
+		Team=Tulane,ID=11
+		Team=Tulsa,ID=12
+Conferece=ACC,ID=2
+	SubConference=Atlantic,ID=3
+		Team=Boston College,ID=13
+		Team=Clemson,ID=14
+		Team=Florida State,ID=15
+		Team=Louisville,ID=16
+		Team=North Carolina State,ID=17
+		Team=Syracuse,ID=18
+		Team=Wake Forest,ID=19
+	SubConference=Coastal,ID=4
+		Team=Duke,ID=20
+		Team=Georgia Tech,ID=21
+		Team=Miami (FL),ID=22
+		Team=North Carolina,ID=23
+		Team=Pittsburgh,ID=24
+		Team=Virginia,ID=25
+		Team=Virginia Tech,ID=26
+Conferece=Big 12,ID=3
+	SubConference=Big 12,ID=5
+		Team=Baylor,ID=27
+		Team=Iowa State,ID=28
+		Team=Kansas,ID=29
+		Team=Kansas State,ID=30
+		Team=Oklahoma,ID=31
+		Team=Oklahoma State,ID=32
+		Team=TCU,ID=33
+		Team=Texas,ID=34
+		Team=Texas Tech,ID=35
+		Team=West Virginia,ID=36
+Conferece=B1G,ID=4
+	SubConference=East,ID=6
+		Team=Indiana,ID=37
+		Team=Maryland,ID=38
+		Team=Michigan,ID=39
+		Team=Michigan State,ID=40
+		Team=Ohio State,ID=41
+		Team=Penn State,ID=42
+		Team=Rutgers,ID=43
+	SubConference=West,ID=7
+		Team=Illinois,ID=44
+		Team=Iowa,ID=45
+		Team=Minnesota,ID=46
+		Team=Nebraska,ID=47
+		Team=Northwestern,ID=48
+		Team=Purdue,ID=49
+		Team=Wisconsin,ID=50
+Conferece=CUSA,ID=5
+	SubConference=East,ID=8
+		Team=Charlotte,ID=51
+		Team=Florida Atlantic,ID=52
+		Team=Florida International,ID=53
+		Team=Marshall,ID=54
+		Team=Middle Tennessee,ID=55
+		Team=Old Dominion,ID=56
+		Team=Western Kentucky,ID=57
+	SubConference=West,ID=9
+		Team=Louisiana Tech,ID=58
+		Team=North Texas,ID=59
+		Team=Rice,ID=60
+		Team=Southern Miss,ID=61
+		Team=UTEP,ID=62
+		Team=UTSA,ID=63
+Conferece=CUSA,ID=6
+	SubConference=Independents,ID=10
+		Team=Army,ID=64
+		Team=Bringham Young,ID=65
+		Team=Notre Dame,ID=66
+Conferece=MAC,ID=7
+	SubConference=East,ID=11
+		Team=Akron,ID=67
+		Team=Buffalo,ID=68
+		Team=Bowling Green,ID=69
+		Team=Kent State,ID=70
+		Team=Massechusetts,ID=71
+		Team=Miami (OH),ID=72
+		Team=Ohio,ID=73
+	SubConference=West,ID=12
+		Team=Ball State,ID=74
+		Team=Central Michigan,ID=75
+		Team=Eastern Michigan,ID=76
+		Team=Northern Illinois,ID=77
+		Team=Toledo,ID=78
+		Team=Western Michigan,ID=79
+Conferece=Mountain West,ID=8
+	SubConference=Mountain,ID=13
+		Team=Air Force,ID=80
+		Team=Boise State,ID=81
+		Team=Colorado State,ID=82
+		Team=New Mexico,ID=83
+		Team=Utah State,ID=84
+		Team=Wyoming,ID=85
+	SubConference=West,ID=14
+		Team=Fresno State,ID=86
+		Team=Hawaii,ID=87
+		Team=Nevada,ID=88
+		Team=San Diego State,ID=89
+		Team=San Jose State,ID=90
+		Team=UNLV,ID=91
+Conferece=Pac-12,ID=9
+	SubConference=North,ID=15
+		Team=California,ID=92
+		Team=Oregon,ID=93
+		Team=Oregon State,ID=94
+		Team=Stanford,ID=95
+		Team=Washington,ID=96
+		Team=Washington State,ID=97
+	SubConference=South,ID=16
+		Team=Arizona,ID=98
+		Team=Arizona State,ID=99
+		Team=Colorado,ID=100
+		Team=UCLA,ID=101
+		Team=USC,ID=102
+		Team=Utah,ID=103
+Conferece=SEC,ID=9
+	SubConference=East,ID=17
+		Team=Florida,ID=104
+		Team=Georgia,ID=105
+		Team=Kentucky,ID=106
+		Team=Missouri,ID=107
+		Team=South Carolina,ID=108
+		Team=Tennessee,ID=109
+		Team=Vanderbilt,ID=110
+	SubConference=West,ID=18
+		Team=Alabama,ID=111
+		Team=Arkansas,ID=112
+		Team=Auburn,ID=113
+		Team=LSU,ID=114
+		Team=Mississippi State,ID=115
+		Team=Ole Miss,ID=116
+		Team=Texas A&M,ID=117
+Conferece=Sun Belt,ID=10
+	SubConference=Sun Belt,ID=19
+		Team=Appalachian State,ID=118
+		Team=Arkansas State,ID=119
+		Team=Georgia Southern,ID=120
+		Team=Georgia State,ID=121
+		Team=Idaho,ID=122
+		Team=Louisiana-Lafayette,ID=123
+		Team=Louisiana-Monroe,ID=124
+		Team=New Mexico State,ID=125
+		Team=South Alabama,ID=126
+		Team=Texas State,ID=127
+		Team=Troy,ID=128
+Conference=FCS,ID=11
+	SubConference=FCS,ID=20
+		Team=FCS,ID=129

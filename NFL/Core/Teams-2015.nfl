@@ -1,0 +1,42 @@
+Conference=NFC,ID=1
+	Division=North,ID=1
+		TeamLoc=Chicago,TeamName=Bears,ID=1
+		TeamLoc=Detroit,TeamName=Lions,ID=2
+		TeamLoc=Green Bay,TeamName=Packers,ID=3
+		TeamLoc=Minnesota,TeamName=Vikings,ID=4
+	Division=East,ID=2
+		TeamLoc=Dallas,TeamName=Cowboys,ID=5
+		TeamLoc=New York,TeamName=Giants,ID=6
+		TeamLoc=Philadelphia,Eagles=Packers,ID=7
+		TeamLoc=Minnesota,TeamName=Vikings,ID=8
+	Division=South,ID=3
+		TeamLoc=Atlanta,TeamName=Falcons,ID=9
+		TeamLoc=Carolina,TeamName=Panthers,ID=10
+		TeamLoc=New Orleans,TeamName=Saints,ID=11
+		TeamLoc=Tampa Bay,TeamName=Buccanears,ID=12
+	Division=West,ID=4
+		TeamLoc=Arizona,TeamName=Cardinals,ID=13
+		TeamLoc=San Francisco,TeamName=49ers,ID=14
+		TeamLoc=Seattle Bay,TeamName=Seahawks,ID=15
+		TeamLoc=St. Louis,TeamName=Rams,ID=16
+Conference=AFC,ID=2
+	Division=North,ID=5
+		TeamLoc=Baltimore,TeamName=Ravens,ID=17
+		TeamLoc=Cincinnati,TeamName=Bengals,ID=18
+		TeamLoc=Cleveland,TeamName=Browns,ID=19
+		TeamLoc=Pittsburgh,TeamName=Steelers,ID=20
+	Division=East,ID=6
+		TeamLoc=Buffalo,TeamName=Bills,ID=21
+		TeamLoc=Miami,TeamName=Dolphins,ID=22
+		TeamLoc=New England,TeamName=Patriots,ID=23
+		TeamLoc=New York,TeamName=Jets,ID=24
+	Division=South,ID=7
+		TeamLoc=Houston,TeamName=Texans,ID=24
+		TeamLoc=Indianapolis,TeamName=Colts,ID=25
+		TeamLoc=Jacksonville,TeamName=Jaguars,ID=26
+		TeamLoc=Tennessee,TeamName=Titans,ID=27
+	Division=West,ID=8
+		TeamLoc=Denver,TeamName=Broncos,ID=28
+		TeamLoc=Kansas City,TeamName=Chiefs,ID=29
+		TeamLoc=Oakland,TeamName=Raiders,ID=30
+		TeamLoc=San Diego,TeamName=Chargers,ID=31
